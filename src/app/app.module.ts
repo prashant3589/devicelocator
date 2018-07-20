@@ -16,7 +16,7 @@ import { HomePage } from '../pages/home/home';
     BrowserModule,
     IonicModule.forRoot(MyApp),
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDUmaiD0OaHxB3M2PswBw3Xfg6vSLjnOm4'
+      apiKey: 'YOURKEY'
     })
   ],
   bootstrap: [IonicApp],
